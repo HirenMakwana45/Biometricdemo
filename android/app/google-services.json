@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845172747574",
+    "project_id": "biometric-ca42c",
+    "storage_bucket": "biometric-ca42c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845172747574:android:1379f12e1ec2ceb503d797",
+        "android_client_info": {
+          "package_name": "com.heypion.biometricdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMTlQdSnCTxZrX3znZtF2q1ysq8IwC_ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
